@@ -30,3 +30,15 @@ For these field values, the following values are returned\.
 ```
 Seattle Store #14
 ```
+
+You can also remote specific characters from at the end of a string field. For example, assuming `customer.address` has the string value `Seatle Store #14`:
+
+```
+rtrim(customer.address, '#14')
+```
+
+And this will return\.
+
+```
+Seattle Store 
+```
