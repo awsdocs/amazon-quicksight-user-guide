@@ -7,6 +7,7 @@ The following example shows the html you can use to display an embedded dashboar
 <html>
 
 <head>
+    <meta charset="UTF-8"> #Character encoding is required to display this page onto the browser. 
     <title>Basic Embed</title>
     <script type="text/javascript" src="https://public.end.point/embedded-dashboards-sdk.min.js"></script>
     <script type="text/javascript">
