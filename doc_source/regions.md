@@ -10,10 +10,16 @@ Amazon QuickSight is currently supported in the following AWS Regions and IP add
 | US East \(Ohio\) \(us\-east\-2\) | 52\.15\.247\.160/27 | 
 | US East \(N\. Virginia\) \(us\-east\-1\) | 52\.23\.63\.224/27 | 
 | US West \(Oregon\) \(us\-west\-2\) | 54\.70\.204\.128/27  | 
+| EU \(Frankfurt\) \(eu\-west\-1\) | 35\.158\.127\.192/27 | 
 | EU \(Ireland\) \(eu\-west\-1\) | 52\.210\.255\.224/27 | 
+| EU \(London\) \(eu\-west\-2\) | 35\.177\.218\.0/27 | 
+| Asia Pacific \(Mumbai\) | 52\.66\.193\.64/27 | 
+| Asia Pacific \(Seoul\) | 13\.124\.145\.32/27 | 
 | Asia Pacific \(Singapore\) | 13\.229\.254\.0/27 | 
 | Asia Pacific \(Sydney\) | 54\.153\.249\.96/27 | 
 | Asia Pacific \(Tokyo\) | 13\.113\.244\.32/27 | 
+| Canada \(Central\) | 15\.223\.73\.0/27 | 
+| South America \(São Paulo\) | 18\.230\.46\.192/27 | 
 
 When you sign up for Amazon QuickSight, you select a home AWS Region\. This is the AWS Region where you want Amazon QuickSight to allocate the initial SPICE capacity associated with any user accounts you create\. Typically, this will be the AWS Region closest to your physical location, and the same AWS Region where you have the majority of your other AWS resources \(like Amazon RDS instances\)\. For more information about how SPICE capacity is allocated, see [Managing SPICE Capacity](managing-spice-capacity.md)\.
 
